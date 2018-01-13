@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27309.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipeServerStreamBug", "NamedPipeServerStreamBug\NamedPipeServerStreamBug.csproj", "{039E35FF-9BC8-479B-8880-569BA0C659E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipeServerStreamBug.Server", "NamedPipeServerStreamBug.Server\NamedPipeServerStreamBug.Server.csproj", "{520F3284-292D-4DF2-80B4-059A3034077D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{039E35FF-9BC8-479B-8880-569BA0C659E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039E35FF-9BC8-479B-8880-569BA0C659E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039E35FF-9BC8-479B-8880-569BA0C659E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039E35FF-9BC8-479B-8880-569BA0C659E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{520F3284-292D-4DF2-80B4-059A3034077D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520F3284-292D-4DF2-80B4-059A3034077D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520F3284-292D-4DF2-80B4-059A3034077D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520F3284-292D-4DF2-80B4-059A3034077D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79323848-7069-494B-9905-F85E88E7A4B9}
+	EndGlobalSection
+EndGlobal
